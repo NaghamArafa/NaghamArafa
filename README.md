@@ -182,15 +182,18 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
- 
- <a href="https://www.linkedin.com/in/nagham-arafa-5558942bb/"> <img src="https://skillicons.dev/icons?i=linkedin" height="55"/> </a> 
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
 
-  
- <a href="mailto:naghamarafa33@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="55"/> </a> 
- 
- </div>
----
+<a href="https://www.linkedin.com/in/nagham-arafa-5558942bb/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:naghamarafa33@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</div>
+
 
 <div align="center">
 
@@ -202,4 +205,3 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=120&section=footer"/>
 
-```
