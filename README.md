@@ -12,9 +12,7 @@
 
 # 👩‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-✨ Flutter Mobile Developer passionate about building scalable, high-performance, and user-friendly mobile applications.
+✨ Flutter Mobile Developer passionate about building scalable, high-performance mobile applications with clean architecture and modern technologies.
 
 🚀 I enjoy transforming ideas into real mobile experiences with clean architecture and modern technologies.
 
@@ -45,33 +43,26 @@
 
 ---
 
-# 🧠 Skills & Technologies
+# 🧠 Skills Overview
 
-<div align="center">
+## 🏗 Architecture & Design
+Clean Architecture • OOP • SOLID Principles • Design Patterns • Dependency Injection
 
-| 🏗 Architecture & Design | ⚡ State Management & Testing | 🔗 APIs & Data Handling |
-|---|---|---|
-| Clean Architecture | Bloc / Cubit | RESTful APIs |
-| Design Patterns | Unit Testing | JSON Serialization |
-| OOP | UI Testing | Data Structures |
-| SOLID Principles | State Management | Caching |
-| Dependency Injection | Responsive UI | Local Storage |
+## ⚡ State Management & Testing
+Bloc / Cubit • Unit Testing • UI Testing • State Management
 
-</div>
+## 🔗 APIs & Data
+REST APIs • JSON Serialization • Caching • Local Storage • Data Handling
 
-<br>
+## ☁️ Tools & Services
+Firebase / Firestore • Push Notifications • Google Maps & GPS  
+CI/CD Basics • Git & GitHub
 
-<div align="center">
+## 🤖 Advanced Features
+AI Recommendation Systems • ML Kit • Barcode Scanning • Real-Time Systems
 
-| ☁️ Tools & Services | 🤖 AI & Advanced Features | 🤝 Collaboration Tools |
-|---|---|---|
-| Firebase / Firestore | AI Recommendation System | Figma |
-| Git & GitHub | ML Kit & Barcode Scanning | Jira / Trello |
-| Push Notifications | Smart Health Solutions | Slack / Teams |
-| Google Maps & GPS | Real-Time Applications | Agile Workflow |
-| CI/CD Principles | Analytics & Tracking | Team Collaboration |
-
-</div>
+## 🤝 Collaboration
+Figma • Jira / Trello • Agile Workflow • Team Communication
 
 ---
 
