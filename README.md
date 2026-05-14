@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=200&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Mobile%20Developer&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=200&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Mobile%20Developer&descAlignY=55" />
 
  <br>
 
