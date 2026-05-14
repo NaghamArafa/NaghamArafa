@@ -177,23 +177,17 @@
 <img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
 <br><br>
 
- <div align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark" />
 
 <img src="https://streak-stats.demolab.com?user=NaghamArafa&theme=github-dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaghamArafa&theme=github_dark" />
-
-<img src="https://metrics.lecoq.io/NaghamArafa?template=classic&base=header,activity,community&base.indepth=true&isocalendar=1&languages=1&lines=1&activity.limit=5&config.timezone=Africa%2FCairo" />
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=github_dark" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=NaghamArafa&theme=algolia&no-frame=true&row=1&column=6" />
+
 </div>
-<br><br>
 
 <!-- Streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
