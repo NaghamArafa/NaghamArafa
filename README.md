@@ -174,32 +174,31 @@
 <div align="center">
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <br><br>
 
 <!-- Stats + Streak -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaghamArafa&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <!-- Top Languages -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaghamArafa&theme=tokyo-night" />
 
 <br><br>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=NaghamArafa&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
-
 
 ---
 
