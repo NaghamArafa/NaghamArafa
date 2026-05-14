@@ -105,77 +105,116 @@
 
 # 📌 Projects Overview
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🏋️ Fitness App
-- Workout tracking
-- Nutrition management
-- Push notifications
-- Smart recommendations
-- Analytics dashboard
+## 🏋️ Fitness App
 
-</td>
+<img src="https://img.shields.io/badge/Flutter-App-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<td width="50%">
+### ✨ Features
+- 🏃 Workout tracking  
+- 🥗 Nutrition management  
+- 🔔 Push notifications  
+- 🤖 Smart recommendations  
+- 📊 Analytics dashboard  
 
-### 📍 Tracking App
-- Google Maps integration
-- GPS tracking
-- Firestore database
-- Real-time location updates
-- Live tracking system
+🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Fitness)
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🛒 E-Commerce App
-- Shopping cart
-- Checkout system
-- Payment integration
-- Push notifications
-- Responsive UI
+## 📍 Tracking App
+
+<img src="https://img.shields.io/badge/Real--Time-Tracking-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+### ✨ Features
+- 🗺 Google Maps integration  
+- 📡 GPS tracking  
+- 🔥 Firestore database  
+- ⚡ Real-time location updates  
+- 📍 Live tracking system  
+
+🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Tracking-App)
 
 </td>
+
+<td width="33%" valign="top">
+
+## 🛒 E-Commerce App
+
+<img src="https://img.shields.io/badge/E--Commerce-App-FF6F00?style=for-the-badge&logo=shopify&logoColor=white"/>
+
+### ✨ Features
+- 🛍 Shopping cart  
+- 💳 Checkout system  
+- 💰 Payment integration  
+- 🔔 Push notifications  
+- 📱 Responsive UI  
+
+🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Flowers-App)
+
+</td>
+
 </tr>
 
-
 <tr>
-  <td width="50%">
 
-### 🩺 Health Scan App
-- Barcode scanning
-- Product risk assessment
-- AI recommendations
-- Firebase integration
-- Health analytics
+<td width="33%" valign="top">
 
-</td>
+## 🩺 Health Scan App
 
-<td width="50%">
+<img src="https://img.shields.io/badge/AI-Health%20Scan-8E24AA?style=for-the-badge&logo=firebase&logoColor=white"/>
 
-### 📝 Online Exam App
-- Dynamic exam system
-- API integration
-- Authentication
-- State management
-- Clean UI/UX
+### ✨ Features
+- 📷 Barcode scanning  
+- ⚠️ Product risk assessment  
+- 🤖 AI recommendations  
+- 🔥 Firebase integration  
+- 📈 Health analytics  
+
+🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Fitness)
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🎬 Movies App
-- Movies browsing
-- Search functionality
-- MVVM architecture
-- Local storage
-- API integration
+## 📝 Online Exam App
+
+<img src="https://img.shields.io/badge/Online-Exam%20Platform-1976D2?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+
+### ✨ Features
+- 🧠 Dynamic exam system  
+- 🔗 API integration  
+- 🔐 Authentication  
+- ⚡ State management  
+- 🎨 Clean UI/UX  
+
+🔗 [Repository](https://github.com/CodeMatesOrganization/online_exam_app)
 
 </td>
+
+<td width="33%" valign="top">
+
+## 🎬 Movies App
+
+<img src="https://img.shields.io/badge/Movies-App-E53935?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
+
+### ✨ Features
+- 🎥 Movies browsing  
+- 🔍 Search functionality  
+- 🏛 MVVM architecture  
+- 💾 Local storage  
+- 🌐 API integration  
+
+🔗 [Repository](https://github.com/CodeMatesOrganization/MoviesApp)
+
+</td>
+
 </tr>
 
 </table>
