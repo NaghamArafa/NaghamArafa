@@ -1,15 +1,6 @@
 <div align="center">
 
- 
-<h1>
-  <span style="background: linear-gradient(90deg,#6C63FF,#00C2FF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">
-    Nagham Arafa
-  </span>
-</h1>
-
-<h3>Flutter Mobile Developer</h3>
+<img src="https://img.shields.io/badge/Nagham%20Arafa-6C63FF?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=white" />
 
  <br>
 
