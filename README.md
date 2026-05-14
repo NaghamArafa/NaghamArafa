@@ -118,9 +118,7 @@
 - Analytics dashboard
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 📍 Tracking App
@@ -142,7 +140,7 @@
 - Responsive UI
 
 </td>
-</td>
+</tr>
 
 
 <tr>
