@@ -177,7 +177,7 @@
 <img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
 <br><br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark" />
+<img src="https://nagham-arafa.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark" />
 
 
 <!-- Streak -->
