@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A86FF&height=220&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Developer&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=220&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Developer&descAlignY=55" />
 
 </a>
 
  <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;Building+Smart+%26+Scalable+Apps;Firebase+%7C+REST+APIs+%7C+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;Scalable+%26+High-Performance+Mobile+Apps;Firebase+%7C+REST+APIs+%7C+AI+Integration)](https://git.io/typing-svg)
 
 </div>
 
