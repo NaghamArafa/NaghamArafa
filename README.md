@@ -126,11 +126,11 @@
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" ,align="center">
 
 ## 📍 Tracking App
 
-<img src="https://img.shields.io/badge/Real--Time-Tracking-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Real--Time-Tracking-690F35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 ### ✨ Features
 - 🗺 Google Maps integration  
@@ -211,8 +211,7 @@
 - 🔥 Firebase integration  
 - 📈 Health analytics  
 
-🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Fitness)
-
+ 
 </td>
 
 
