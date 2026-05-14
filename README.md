@@ -170,29 +170,28 @@
 ---
 # 📊 GitHub Stats
 
-<div align="center">
 
+<div align="center">
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
+
 <br><br>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaghamArafa&show_icons=true&theme=algolia&hide_border=true&hide=stars,issues&count_private=true&include_all_commits=true" />
-  
-</div>
-  <br>
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
-</div>
-<br>
+<!-- Main Stats -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaghamArafa&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=algolia&hide_border=true" />
-</div>
+<img width="49%" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
 
-<!-- Streak -->
+<br><br>
 
+<!-- Languages -->
+<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=algolia&hide_border=true" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaghamArafa&theme=react-dark" />
 
 <br><br>
 
