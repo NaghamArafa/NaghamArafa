@@ -178,7 +178,7 @@
 <br><br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MALAK0244&show_icons=true&theme=algolia&hide_border=true&hide=stars,issues&count_private=true&include_all_commits=true" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaghamArafa&show_icons=true&theme=algolia&hide_border=true&hide=stars,issues&count_private=true&include_all_commits=true" />
 
   <br>
 
