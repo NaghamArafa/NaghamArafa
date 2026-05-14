@@ -184,7 +184,6 @@
 
 <div align="center">
 
-<div style="display:inline-flex; gap:80px; align-items:center;">
 
 <a href="https://www.linkedin.com/in/nagham-arafa-5558942bb/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
@@ -196,7 +195,6 @@
 
 </div>
 
-</div>
 
 
 <div align="center">
