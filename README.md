@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Nagham%20Arafa-6C63FF?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Nagham%20Arafa&fontSize=40&fontColor=ffffff" />
+
+</a>
 
  <br>
 
