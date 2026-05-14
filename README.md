@@ -22,7 +22,7 @@
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tools & Technologies
 
 <div align="center">
 
