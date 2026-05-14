@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,spring,nodejs,git,github,figma,vscode,postman,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,postman,androidstudio"/>
 
 </div>
 
@@ -118,7 +118,7 @@
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
 ### 🏋️ Fitness App
 - Workout tracking
@@ -131,7 +131,7 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="30%">
 
 ### 📍 Tracking App
 - Google Maps integration
@@ -142,7 +142,7 @@
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
 ### 🛒 E-Commerce App
 - Shopping cart
@@ -155,7 +155,7 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="30%">
 
 ### 📝 Online Exam App
 - Dynamic exam system
@@ -166,7 +166,7 @@
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
 ### 🎬 Movies App
 - Movies browsing
