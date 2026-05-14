@@ -172,20 +172,9 @@
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=1F6FEB&style=flat" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<!-- Main Stats -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaghamArafa&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<!-- Top Languages -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
