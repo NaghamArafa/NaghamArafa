@@ -12,24 +12,13 @@
 
 # 👩‍💻 About Me
 
-✨ Flutter Mobile Developer passionate about building scalable, high-performance mobile applications with clean architecture and modern technologies.
+<p align="center">
+  ✨ Flutter Mobile Developer focused on building scalable, high-performance apps with clean architecture and modern technologies.
+</p>
 
-🚀 I enjoy transforming ideas into real mobile experiences with clean architecture and modern technologies.
-
-💡 Interested in:
-- Mobile Development
-- AI-powered Applications
-- Health Technology
-- Real-Time Systems
-- UI/UX Design
-
-🌱 Currently improving:
-- Advanced Flutter Architecture
-- Backend Integration
-- System Design
-- Performance Optimization
-
-<br>
+<p align="center">
+  🚀 Passionate about turning ideas into real products using AI, real-time systems, and user-centered design.
+</p>
 
 ---
 
