@@ -184,13 +184,21 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nagham-arafa-5558942bb/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
+<table>
+  <tr>
+    <td align="center" style="padding: 0 25px;">
+      <a href="https://www.linkedin.com/in/nagham-arafa-5558942bb/">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+      </a>
+    </td>
 
-<a href="mailto:naghamarafa33@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+    <td align="center" style="padding: 0 25px;">
+      <a href="mailto:naghamarafa33@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
