@@ -179,11 +179,9 @@
 
  <div align="center">
 
-<!-- Main Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaghamArafa&theme=github-dark&hide_border=true" />
 
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaghamArafa&theme=github_dark" />
 
 </div>
 <br><br>
