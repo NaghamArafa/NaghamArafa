@@ -105,7 +105,7 @@
 
 # 📌 Projects Overview
 
-<table width="100%">
+<table width="100%"  ,align="center">
 
 <tr>
 
@@ -126,7 +126,7 @@
 
 </td>
 
-<td width="33%" valign="top" ,align="center">
+<td width="33%" valign="top">
 
 ## 📍 Tracking App
 
