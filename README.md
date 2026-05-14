@@ -6,7 +6,7 @@
 
  <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;Scalable+%26+High-Performance+Mobile+Apps;Firebase+%7C+REST+APIs+%7C+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Scalable+%26+High-Performance+Mobile+Apps;Clean+Architecture+Enthusiast;Firebase+%7C+REST+APIs+%7C+AI+Integration)](https://git.io/typing-svg)
 
 </div>
 
