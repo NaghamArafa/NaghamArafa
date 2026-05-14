@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif" alt="Nagham Arafa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A86FF&height=220&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Developer&descAlignY=55" />
 
 </a>
 
