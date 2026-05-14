@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Nagham Arafa</h1>
 
 <h3 align="center">
@@ -188,4 +187,3 @@ https://github.com/CodeMatesOrganization/MoviesApp
 ### 💡 “Code is not just about functionality — it's about creating experiences.”
 
 </div>
-```
