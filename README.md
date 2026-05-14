@@ -183,10 +183,10 @@
 # 🌐 Connect With Me
 
 <div align="center">
+ 
  <a href="https://www.linkedin.com/in/nagham-arafa-5558942bb/"> <img src="https://skillicons.dev/icons?i=linkedin" height="55"/> </a> 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
+  
  <a href="mailto:naghamarafa33@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="55"/> </a> 
  
  </div>
