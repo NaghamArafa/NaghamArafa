@@ -188,6 +188,8 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
+<span style="display:inline-block; width:80px;"></span>
+
 <a href="mailto:naghamarafa33@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
