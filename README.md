@@ -116,11 +116,10 @@
 <img src="https://img.shields.io/badge/Flutter-App-FF4100?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 ### ✨ Features
-- 🏃 Workout tracking  
+- 🏃 Workout tracking & exercises
 - 🥗 Nutrition management  
-- 🔔 Push notifications  
-- 🤖 Smart recommendations  
-- 📊 Analytics dashboard  
+- 🤖 AI recommendations  
+- 🔐 Authentication (Google & Facebook login)
 
 🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Fitness)
 
@@ -135,9 +134,8 @@
 ### ✨ Features
 - 🗺 Google Maps integration  
 - 📡 GPS tracking  
-- 🔥 Firestore database  
+- 🔥 Firestore (real-time database)  
 - ⚡ Real-time location updates  
-- 📍 Live tracking system  
 
 🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Tracking-App)
 
@@ -150,11 +148,10 @@
 <img src="https://img.shields.io/badge/E--Commerce-App-D21E6A?style=for-the-badge&logo=shopify&logoColor=white"/>
 
 ### ✨ Features
-- 🛍 Shopping cart  
 - 💳 Checkout system  
 - 💰 Payment integration  
-- 🔔 Push notifications  
-- 📱 Responsive UI  
+- 📊 Firebase Monitoring & Analytics
+- ⚡ Caching
 
 🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Flowers-App)
 
@@ -173,9 +170,8 @@
 ### ✨ Features
 - 🧠 Dynamic exam system  
 - 🔗 API integration  
-- 🔐 Authentication  
-- ⚡ State management  
-- 🎨 Clean UI/UX  
+- ⚡ State management (Bloc)
+- 🔔 Push Notifications 
 
 🔗 [Repository](https://github.com/CodeMatesOrganization/online_exam_app)
 
@@ -189,8 +185,7 @@
 
 ### ✨ Features
 - 🎥 Movies browsing  
-- 🔍 Search functionality  
-- 🏛 MVVM architecture  
+- 🔍 Search functionality   
 - 💾 Local storage  
 - 🌐 API integration  
 
