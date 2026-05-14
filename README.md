@@ -179,9 +179,12 @@
 
  <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaghamArafa&theme=github-dark&hide_border=true" />
+<img src="https://metrics.lecoq.io/NaghamArafa?template=classic&base=header,activity,community&base.indepth=true&isocalendar=1&languages=1&lines=1&activity.limit=5&config.timezone=Africa%2FCairo" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaghamArafa&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=github_dark" />
 
 </div>
 <br><br>
