@@ -185,8 +185,11 @@
 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MALAK0244&theme=algolia&hide_border=true" />
 </div>
+<br>
 
----
+<div align="center">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=algolia&hide_border=true" />
+</div>
 
 <!-- Streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
