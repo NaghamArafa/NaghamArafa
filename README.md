@@ -183,7 +183,7 @@
 </div>
   <br>
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
 </div>
 <br>
 
