@@ -1,23 +1,17 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Nagham Arafa</h1>
+ 
+<h1>
+  <span style="background: linear-gradient(90deg,#6C63FF,#00C2FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+    Nagham Arafa
+  </span>
+</h1>
 
 <h3>Flutter Mobile Developer</h3>
 
-<p>
-Building scalable mobile apps with Flutter, Clean Architecture & AI integration
-</p>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postman" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
-<br>
+ <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;Building+Smart+%26+Scalable+Apps;Firebase+%7C+REST+APIs+%7C+AI+Integration)](https://git.io/typing-svg)
 
