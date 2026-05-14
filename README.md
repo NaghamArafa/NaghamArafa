@@ -1,6 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=Nagham%20Arafa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Developer&descAlignY=55"/>
+<h1>Hi 👋, I'm Nagham Arafa</h1>
+
+<h3>Flutter Mobile Developer</h3>
+
+<p>
+Building scalable mobile apps with Flutter, Clean Architecture & AI integration
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postman" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
 <br>
 
