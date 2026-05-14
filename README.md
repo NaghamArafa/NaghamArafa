@@ -187,26 +187,12 @@
 <!-- Streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
 
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaghamArafa&theme=github-compact" />
-
-<br><br>
 
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=NaghamArafa&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-<!-- Streak (Commits Activity) -->
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaghamArafa&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
