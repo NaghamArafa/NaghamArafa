@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://www.adamalston.com/">
   <img src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif" alt="Nagham Arafa" />
-</a>
 
 </a>
 
