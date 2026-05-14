@@ -172,17 +172,30 @@
 
 <div align="center">
 
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
+<br><br>
+
+<!-- Main Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=algolia&hide_border=true" />
 
 <br><br>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=default" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=default" />
+<!-- Streak -->
+<img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=NaghamArafa&theme=default&hide_border=true" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaghamArafa&theme=github-compact" />
+
+<br><br>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=NaghamArafa&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
