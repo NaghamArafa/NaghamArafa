@@ -172,9 +172,20 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- Profile Stats -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
+<!-- Top Languages -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Streak (Commits Activity) -->
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaghamArafa&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -188,7 +199,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:naghamarafa33@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
