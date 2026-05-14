@@ -75,34 +75,6 @@
 
 ---
 
-# 📱 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Flutter-Elevate-Team2/Fitness">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flutter-Elevate-Team2&repo=Fitness&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Flutter-Elevate-Team2/Tracking-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flutter-Elevate-Team2&repo=Tracking-App&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Flutter-Elevate-Team2/Flowers-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flutter-Elevate-Team2&repo=Flowers-App&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/CodeMatesOrganization/online_exam_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeMatesOrganization&repo=online_exam_app&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/CodeMatesOrganization/MoviesApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeMatesOrganization&repo=MoviesApp&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
 # 📌 Projects Overview
 <div align="center">
 <table width="100%" >
