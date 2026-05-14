@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Nagham%20Arafa&fontSize=40&fontColor=ffffff" />
+<a href="https://www.adamalston.com/">
+  <img src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif" alt="Nagham Arafa" />
+</a>
 
 </a>
 
