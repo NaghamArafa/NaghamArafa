@@ -183,8 +183,7 @@
 </div>
   <br>
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MALAK0244&theme=algolia&hide_border=true" />
-</div>
+  <img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
 <br>
 
 <div align="center">
@@ -192,7 +191,7 @@
 </div>
 
 <!-- Streak -->
-<img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
+
 
 <br><br>
 
