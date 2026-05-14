@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=220&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Developer&descAlignY=55" />
-
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=200&section=header&text=Nagham%20Arafa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Developer%20%7C%20About%20Nagham&descAlignY=55" />
 
  <br>
 
@@ -259,6 +257,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0366D6&height=120&section=footer"/>
 
 ```
