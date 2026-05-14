@@ -172,9 +172,17 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=github_dark&hide_border=true" />
+<br><br>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NaghamArafa&show_icons=true&theme=default" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamArafa&layout=compact&theme=default" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=NaghamArafa&theme=default&hide_border=true" />
 
 </div>
 
