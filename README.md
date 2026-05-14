@@ -107,18 +107,8 @@
 
 <table>
 <tr>
+
 <td width="50%">
-
-### 🩺 Health Scan App
-- Barcode scanning
-- Product risk assessment
-- AI recommendations
-- Firebase integration
-- Health analytics
-
-</td>
-
-<td width="30%">
 
 ### 🏋️ Fitness App
 - Workout tracking
@@ -131,7 +121,7 @@
 </tr>
 
 <tr>
-<td width="30%">
+<td width="50%">
 
 ### 📍 Tracking App
 - Google Maps integration
@@ -142,7 +132,7 @@
 
 </td>
 
-<td width="30%">
+<td width="50%">
 
 ### 🛒 E-Commerce App
 - Shopping cart
@@ -152,10 +142,22 @@
 - Responsive UI
 
 </td>
-</tr>
+</td>
+
 
 <tr>
-<td width="30%">
+  <td width="50%">
+
+### 🩺 Health Scan App
+- Barcode scanning
+- Product risk assessment
+- AI recommendations
+- Firebase integration
+- Health analytics
+
+</td>
+
+<td width="50%">
 
 ### 📝 Online Exam App
 - Dynamic exam system
@@ -166,7 +168,7 @@
 
 </td>
 
-<td width="30%">
+<td width="50%">
 
 ### 🎬 Movies App
 - Movies browsing
