@@ -177,7 +177,6 @@
 <img src="https://komarev.com/ghpvc/?username=NaghamArafa&label=Profile%20Views&color=0e75b6&style=flat" />
 <br><br>
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MALAK0244&show_icons=true&theme=algolia&hide_border=true&hide=stars,issues&count_private=true&include_all_commits=true)
 
 <!-- Streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
