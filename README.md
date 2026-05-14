@@ -113,7 +113,7 @@
 
 ## 🏋️ Fitness App
 
-<img src="https://img.shields.io/badge/Flutter-App-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-App-FF4100?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 ### ✨ Features
 - 🏃 Workout tracking  
@@ -145,9 +145,9 @@
 
 <td width="33%" valign="top">
 
-## 🛒 E-Commerce App
+## 🛒 Flowers App
 
-<img src="https://img.shields.io/badge/E--Commerce-App-FF6F00?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/E--Commerce-App-D21E6A?style=for-the-badge&logo=shopify&logoColor=white"/>
 
 ### ✨ Features
 - 🛍 Shopping cart  
@@ -166,26 +166,9 @@
 
 <td width="33%" valign="top">
 
-## 🩺 Health Scan App
-
-<img src="https://img.shields.io/badge/AI-Health%20Scan-8E24AA?style=for-the-badge&logo=firebase&logoColor=white"/>
-
-### ✨ Features
-- 📷 Barcode scanning  
-- ⚠️ Product risk assessment  
-- 🤖 AI recommendations  
-- 🔥 Firebase integration  
-- 📈 Health analytics  
-
-🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Fitness)
-
-</td>
-
-<td width="33%" valign="top">
-
 ## 📝 Online Exam App
 
-<img src="https://img.shields.io/badge/Online-Exam%20Platform-1976D2?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Online-Exam%20Platform-02369C?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
 
 ### ✨ Features
 - 🧠 Dynamic exam system  
@@ -202,7 +185,7 @@
 
 ## 🎬 Movies App
 
-<img src="https://img.shields.io/badge/Movies-App-E53935?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Movies-App-F6BD00?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
 
 ### ✨ Features
 - 🎥 Movies browsing  
@@ -214,6 +197,24 @@
 🔗 [Repository](https://github.com/CodeMatesOrganization/MoviesApp)
 
 </td>
+
+<td width="33%" valign="top">
+
+## 🩺 Health Scan App
+
+<img src="https://img.shields.io/badge/AI-Health%20Scan-2C6184?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+### ✨ Features
+- 📷 Barcode scanning  
+- ⚠️ Product risk assessment  
+- 🤖 AI recommendations  
+- 🔥 Firebase integration  
+- 📈 Health analytics  
+
+🔗 [Repository](https://github.com/Flutter-Elevate-Team2/Fitness)
+
+</td>
+
 
 </tr>
 
