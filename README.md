@@ -46,23 +46,23 @@
 # 🧠 Skills Overview
 
 ## 🏗 Architecture & Design
-Clean Architecture • OOP • SOLID Principles • Design Patterns • Dependency Injection
+`Clean Architecture` `OOP` `SOLID` `Design Patterns` `Dependency Injection`
 
 ## ⚡ State Management & Testing
-Bloc / Cubit • Unit Testing • UI Testing • State Management
+`Bloc / Cubit` `Unit Testing` `UI Testing` `State Management`
 
 ## 🔗 APIs & Data
-REST APIs • JSON Serialization • Caching • Local Storage • Data Handling
+`REST APIs` `JSON Serialization` `Caching` `Local Storage` `Data Handling`
 
 ## ☁️ Tools & Services
-Firebase / Firestore • Push Notifications • Google Maps & GPS  
-CI/CD Basics • Git & GitHub
+`Firebase / Firestore` `Push Notifications` `Google Maps & GPS`  
+`CI/CD Basics` `Git & GitHub`
 
 ## 🤖 Advanced Features
-AI Recommendation Systems • ML Kit • Barcode Scanning • Real-Time Systems
+`AI Recommendation Systems` `ML Kit` `Barcode Scanning` `Real-Time Systems`
 
 ## 🤝 Collaboration
-Figma • Jira / Trello • Agile Workflow • Team Communication
+`Figma` `Jira / Trello` `Agile Workflow` `Team Communication`
 
 ---
 
