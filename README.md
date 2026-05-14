@@ -179,7 +179,7 @@
 <br><br>
 
 <!-- Main Stats -->
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaghamArafa&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaghamArafa&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=NaghamArafa&theme=algolia&hide_border=true" />
 
