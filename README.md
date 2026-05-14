@@ -104,8 +104,8 @@
 ---
 
 # 📌 Projects Overview
-
-<table width="100%"  ,align="center">
+<div align="center">
+<table width="100%" >
 
 <tr>
 
@@ -218,6 +218,7 @@
 </tr>
 
 </table>
+</div>
 
 ---
 
